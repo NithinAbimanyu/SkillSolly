@@ -1,0 +1,37 @@
+*{margin:0;padding:0;}
+ul,li{list-style:none}
+a{text-decoration:none}
+body{font-family: "Roboto";}
+.login{float:left}
+.login2{float:right}
+.login-set{border:1px solid #000; overflow:hidden; padding:15px; border-radius:20px; margin-bottom:25px}
+.login p{font-size:16px}
+.forms h2{color:#000;}
+.login3 input{width:100%; padding:10px 0; background-color:#1d65e3; font-size:18px; border:inherit; border-radius:20px; color:#fff}
+.llog{color:#1d65e3;}
+.sign1{margin-bottom:15px}
+.sign2{margin-bottom:15px}
+.sign2 input{width:74%; height:15px; padding-left:10px}
+.sign select{width:74%; height:40px; padding-left:10px}
+.sign1 input{height:40px; padding-left:10px}
+.login4 input{width:74%; padding:10px 0; background-color:#1d65e3; font-size:18px; border:inherit; border-radius:20px; color:#fff}
+.cust h3{color:#0b69d6; font-size:30px}
+.container{width:1170px; display:block; margin:0 auto; width:100%;}
+.logo img{width:60%; border-radius: 10px; margin-left: 15px;}
+.logo{float:left; width:30%;}
+.search{margin-top:36px; width:30%; float: left; border-style: none; background-color: rgb(234, 233, 233); border-radius: 5px; padding-left: 10px; height: 40px; }
+.sub{width:50px; background:#0008ff; border-style: none; margin-top: 36px; height: 40px; border-radius: 5px;}
+.sub i{color:#fff}
+.bell{float:right; margin-right:100px; margin-top:36px;  }
+.bell i{font-size:30px; color:#eb5805}
+.customer{overflow:hidden}
+.banner{overflow:hidden}
+.hire{display:inline-block; padding:15px 25px; background-color:#2920d3; color:#fff; margin:30px 0; font-size:20px }
+.hire:hover{text-decoration:none; background-color:orange; color:#fff}
+	.login4 input:hover{background-color:#e3571d}
+		.login3 input:hover{background-color:#e3571d}
+
+.cust search-bar{
+display: grid;
+grid-template-columns: 100px 100px;
+}
